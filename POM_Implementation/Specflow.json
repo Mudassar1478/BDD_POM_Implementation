@@ -1,0 +1,11 @@
+﻿{
+  //"bindingCulture": { "language": "en-us" },
+  //"language": { "feature": "en-us" },
+
+  //"plugins": [],
+  //"stepAssemblies": [ { "assembly": "POM_Implementation" } ],
+  //"livingDocGenerator": {
+  //  "enabled": true,
+  //  "filePath": "TestExecution.json"
+  //}
+}

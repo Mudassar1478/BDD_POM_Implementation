@@ -1,0 +1,10 @@
+C:\My Folder\POM_IMPLEMENTATION_COMPLETE-main\POM_Implementation\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.csproj.AssemblyReference.cache
+C:\My Folder\POM_IMPLEMENTATION_COMPLETE-main\POM_Implementation\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Folder\POM_IMPLEMENTATION_COMPLETE-main\POM_Implementation\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.AssemblyInfoInputs.cache
+C:\My Folder\POM_IMPLEMENTATION_COMPLETE-main\POM_Implementation\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.AssemblyInfo.cs
+C:\My Folder\POM_IMPLEMENTATION_COMPLETE-main\POM_Implementation\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Mudassar.Khan\Desktop\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.csproj.AssemblyReference.cache
+C:\Users\Mudassar.Khan\Desktop\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mudassar.Khan\Desktop\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.AssemblyInfoInputs.cache
+C:\Users\Mudassar.Khan\Desktop\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.AssemblyInfo.cs
+C:\Users\Mudassar.Khan\Desktop\POM_Implementation\POM_Implementation\obj\Debug\net7.0\POM_Implementation.csproj.CoreCompileInputs.cache

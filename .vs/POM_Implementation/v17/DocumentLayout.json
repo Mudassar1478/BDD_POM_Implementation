@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\allpagescontrols\\dynamictablecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\allpagescontrols\\dynamictablecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\allpagescontrols\\allpagescommoncontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\allpagescontrols\\allpagescommoncontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\featureactionwords\\herokuapp_login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\featureactionwords\\herokuapp_login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\stepdefinations\\tableautomationsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\tableautomationsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\stepdefinations\\loginpagesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\loginpagesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\stepdefinations\\javascriptalertssteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\javascriptalertssteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\allpagescontrols\\loginpagecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\allpagescontrols\\loginpagecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\allpagescontrols\\fileuploadcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\allpagescontrols\\fileuploadcontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\stepdefinations\\fileuploadsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\fileuploadsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\users\\mudassar.khan\\desktop\\pom_implementation\\pom_implementation\\stepdefinations\\dashboardsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\dashboardsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Herokuapp_Login.feature",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\FeatureActionWords\\Herokuapp_Login.feature",
+              "RelativeDocumentMoniker": "POM_Implementation\\FeatureActionWords\\Herokuapp_Login.feature",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\FeatureActionWords\\Herokuapp_Login.feature",
+              "RelativeToolTip": "POM_Implementation\\FeatureActionWords\\Herokuapp_Login.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-17T14:42:53.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileUploadControls.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\AllPagesControls\\FileUploadControls.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\AllPagesControls\\FileUploadControls.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\AllPagesControls\\FileUploadControls.cs",
+              "RelativeToolTip": "POM_Implementation\\AllPagesControls\\FileUploadControls.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:06:11.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicTableControls.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\AllPagesControls\\DynamicTableControls.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\AllPagesControls\\DynamicTableControls.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\AllPagesControls\\DynamicTableControls.cs",
+              "RelativeToolTip": "POM_Implementation\\AllPagesControls\\DynamicTableControls.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:34:07.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPageControls.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\AllPagesControls\\LoginPageControls.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\AllPagesControls\\LoginPageControls.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\AllPagesControls\\LoginPageControls.cs",
+              "RelativeToolTip": "POM_Implementation\\AllPagesControls\\LoginPageControls.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:48:04.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllPagesCommonControls.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\AllPagesControls\\AllPagesCommonControls.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\AllPagesControls\\AllPagesCommonControls.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\AllPagesControls\\AllPagesCommonControls.cs",
+              "RelativeToolTip": "POM_Implementation\\AllPagesControls\\AllPagesCommonControls.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAvwDMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:46:56.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JavaScriptAlertsSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\JavaScriptAlertsSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\JavaScriptAlertsSteps.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\JavaScriptAlertsSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\JavaScriptAlertsSteps.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:19:52.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\Hooks.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\Hooks.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\Hooks.cs",
+              "RelativeToolTip": "POM_Implementation\\Hooks.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAvwIcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:23:39.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableAutomationSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\TableAutomationSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\TableAutomationSteps.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\TableAutomationSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\TableAutomationSteps.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:20:11.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPageSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\LoginPageSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\LoginPageSteps.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\LoginPageSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\LoginPageSteps.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:31:46.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileUploadSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\FileUploadSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\FileUploadSteps.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\FileUploadSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\FileUploadSteps.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAABTwBsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:59:25.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashBoardSteps.cs",
+              "DocumentMoniker": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\DashBoardSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\DashBoardSteps.cs",
+              "ToolTip": "C:\\Users\\Mudassar.Khan\\Desktop\\POM_Implementation\\POM_Implementation\\StepDefinations\\DashBoardSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\DashBoardSteps.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:56:44.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

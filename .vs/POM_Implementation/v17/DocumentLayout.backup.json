@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\featureactionwords\\herokuapp_login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\featureactionwords\\herokuapp_login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\stepdefinations\\loginpagesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\loginpagesteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\stepdefinations\\tableautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\tableautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\stepdefinations\\javascriptalertssteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\javascriptalertssteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\stepdefinations\\fileuploadsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\fileuploadsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\stepdefinations\\dashboardsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\stepdefinations\\dashboardsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\allpagescontrols\\allpagescommoncontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\allpagescontrols\\allpagescommoncontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|c:\\my folder\\pom_implementation_complete-main\\pom_implementation\\pom_implementation\\pom_implementation\\allpagescontrols\\loginpagecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED210CF-D906-4EA1-BEE1-E5EBF7F64CDF}|POM_Implementation\\POM_Implementation.csproj|solutionrelative:pom_implementation\\allpagescontrols\\loginpagecontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Specflow.json",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\Specflow.json",
+              "RelativeDocumentMoniker": "POM_Implementation\\Specflow.json",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\Specflow.json*",
+              "RelativeToolTip": "POM_Implementation\\Specflow.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T10:35:26.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "herokuapp_Login.feature",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\FeatureActionWords\\herokuapp_Login.feature",
+              "RelativeDocumentMoniker": "POM_Implementation\\FeatureActionWords\\herokuapp_Login.feature",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\FeatureActionWords\\herokuapp_Login.feature",
+              "RelativeToolTip": "POM_Implementation\\FeatureActionWords\\herokuapp_Login.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMHSURBVDhPrZTNa1xVGMZ/58yde\u002B9MJp8zuWnS9CumXxJRoqDSIi3YFtHWhbW6EaSrgguFbly4KIVSEKogLtQ/QFB3UgpFsFUKEq00IxqldDStMQ2TScP0zp17584597iYaeK0XZSa5\u002BzOOe/zvjzPc44AOP7xu8bOKgCWwgUMhgeBQJDPrCOuWwCcees04p2Pjpty6hIHnnoCgHXdHojWdVaIxSrLCgwYWPDLnL88DYCndiHe/PAVc3DvCDsK2wCIdWOl3LH623s\u002BUqRx03lqjbkVSgA75fBH5SoAX1\u002BYR3acrgFkOSyRc1xCFRCqgMRoVKKQIsOYd4Qx7wiF3CT9XY\u002ByMf8iUjhI4SCwSIwmVAE5xyXnuJTDElIbhWgLLBCkZIaRvt2kUi4Vf5qKP42UaXTSZKn2Cz2ZzfRkNrN9\u002BA3cdKFd1VJZmybybsEdq4eBrsfYOLCfSq1IpVak7P/Mcv13Fv0rdDmjdDmj\u002BOEsTV3rTIThXg3rcZlr5S\u002B4ces8iYlJTIzSATqJUEmIH83iR7OoJCSTHry7/F7C/wu5mrUWHKuPce9VNvTvQwgLISyy9jBZexjH6iNWt4nVbfK5x\u002BnP7gDTWS9px9e0l0pCbgUzXF86h9c9idc9yUjfbtz0AFuHXkMnMTqJ\u002BW3\u002BU/5e/gYh/uOBEMhe26Oh4jus6CTiZvUSDVXFTedx03mauk7QmCdo3FxtbzTQGjBSMZGK6bUHEa\u002BfOmy2TFTY\u002B8jTAGStbDs\u002BKWzbBUA1NbEOMRhEh\u002ByGuqpzoTQFwJ\u002B/FtbeFPHeJyfMD399y\u002BBoEwBpR4xtyrJ//T4CFQAwNX\u002BF0j9VpOjsbzBEoaE8ZwOwa\u002Bz5Vqq/\u002B/F7c32x9ei/vPwZh/YM46ZcLl6dAaA6N8SBiZcpXpthcbkCQGI0INi2aZxndz4JwME9L61adPTUMQPQ9KbYur7AT8UqbjgOwFcnP7/f/3VfCICzF8\u002BaM\u002BdOA7Bhe8BCqYeJoWf44O33H5joDtbcFAlQq9dpRJpGpCkVe3lu/IWHmg7gX3F2O2\u002BYmbARAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-17T10:27:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPageControls.cs",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\AllPagesControls\\LoginPageControls.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\AllPagesControls\\LoginPageControls.cs",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\AllPagesControls\\LoginPageControls.cs",
+              "RelativeToolTip": "POM_Implementation\\AllPagesControls\\LoginPageControls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:48:04.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllPagesCommonControls.cs",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\AllPagesControls\\AllPagesCommonControls.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\AllPagesControls\\AllPagesCommonControls.cs",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\AllPagesControls\\AllPagesCommonControls.cs",
+              "RelativeToolTip": "POM_Implementation\\AllPagesControls\\AllPagesCommonControls.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:46:56.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JavaScriptAlertsSteps.cs",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\JavaScriptAlertsSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\JavaScriptAlertsSteps.cs",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\JavaScriptAlertsSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\JavaScriptAlertsSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:19:52.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\Hooks.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\Hooks.cs",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\Hooks.cs",
+              "RelativeToolTip": "POM_Implementation\\Hooks.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:23:39.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableAutomation.cs",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\TableAutomation.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\TableAutomation.cs",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\TableAutomation.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\TableAutomation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:20:11.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPageSteps.cs",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\LoginPageSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\LoginPageSteps.cs",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\LoginPageSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\LoginPageSteps.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:31:46.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUploadSteps.cs",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\FileUploadSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\FileUploadSteps.cs",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\FileUploadSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\FileUploadSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:59:25.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoardSteps.cs",
+              "DocumentMoniker": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\DashBoardSteps.cs",
+              "RelativeDocumentMoniker": "POM_Implementation\\StepDefinations\\DashBoardSteps.cs",
+              "ToolTip": "C:\\My Folder\\POM_IMPLEMENTATION_COMPLETE-main\\POM_Implementation\\POM_Implementation\\POM_Implementation\\StepDefinations\\DashBoardSteps.cs",
+              "RelativeToolTip": "POM_Implementation\\StepDefinations\\DashBoardSteps.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:56:44.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
